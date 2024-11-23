@@ -28,7 +28,7 @@
 </template>
 
 <script>
-import '@/pages/style.css'; // CSS dosyasını buraya import edin
+import '@/pages/style.css'; 
 
 export default {
   data() {
